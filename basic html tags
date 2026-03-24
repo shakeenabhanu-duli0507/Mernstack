@@ -1,0 +1,19 @@
+<html> 
+The root tag of every HTML document. 
+<head> 
+Contains metadata (information about the webpage). 
+ADITYA University 
+1 
+WEB Application Development using MERN Stack 
+<head> 
+<title>My Web Page</title> 
+</head> 
+<body> 
+Contains everything visible on the webpage (text, images, lists, tables). 
+</body> 
+<h1>Welcome</h1> 
+</body> 
+<title> 
+Sets the title of the webpage shown in the browser tab. 
+<meta> 
+Provides information about the webpage like character set, keywords, author.
